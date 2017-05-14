@@ -15,10 +15,4 @@ A neural network is a biologically-inspired programming paradigm which enables a
 
 Deep learning is a powerful set of techniques for learning and implementing the neural networks.
 
-There are multiple historical models are available in public domain to compare results and provide benchmark. Following are few of them: 
-Classifier	Description	Preprocessing	Test Error 	Reference 
-Linear classifiers	linear classifier (1-layer NN)	none	12%	LeCun et al. 1998
-Nearest Neighbors 	K-nearest-neighbors, Euclidean (L2)	none	3.09%	Kenneth Wilder, U. Chicago
-Non Linear Classifiers 	1000 RBF + linear classifier	none	3.6	LeCun et al. 1998
-SVMs	SVM, Gaussian Kernel	none	1.4%	
-Neural Nets	3-layer NN, 500+300 HU, softmax, cross entropy, weight decay	none	1.53%	Hinton, unpublished, 2005
+There are multiple historical models are available in public domain to compare results and provide benchmark. 
